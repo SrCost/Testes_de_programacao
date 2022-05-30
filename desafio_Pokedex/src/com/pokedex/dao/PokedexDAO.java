@@ -129,8 +129,6 @@ public class PokedexDAO {
 		}
 	}
 	
-	
-	
 	public List<Pokemon> getPokemon(){
 		
 		String sql = "SELECT * FROM tb_pokedex";
