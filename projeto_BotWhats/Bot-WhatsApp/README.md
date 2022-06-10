@@ -21,7 +21,7 @@
 
 ### Como rodar?
 
- <p> 1. git clone https://github.com/iagoln/Bot-WhatsApp.git </p>
+ <p> 1. git clone https://github.com/ss/Bot-WhatsApp.git </p>
  <p> 2. cd Bot-WhatsApp </p>
  <p> 3. npm Install </p>
  <p> 4. npm Start </p>
